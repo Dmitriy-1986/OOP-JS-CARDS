@@ -1,2 +1,2 @@
 
-> https://github.com/Dmitriy-1986/OOP-JS-CARDS
+> https://dmitriy-1986.github.io/OOP-JS-CARDS/
